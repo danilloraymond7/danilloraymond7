@@ -1,11 +1,6 @@
 <h1 align="center">👨‍💻 Hello! Danillo Raymond</h1>
 <h3 align="center">Work and study Web and Mobile development technologies.</h3>
 
-- 👨‍💻 Web applications that I collaborate with at the company where I work [Rocket Sales](https://dominio.rocketsales.app/login/login)
-
-- 👨‍💻 Web applications that I collaborate with at the company where I work [Hotlead](http://amaro1.amaro.com.br/portal/hotlead/login.asp)
-
-- 👨‍💻 Web applications that I collaborate with at the company where I work [Portal Client](http://amaro1.amaro.com.br/portal/rc1/login.asp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
